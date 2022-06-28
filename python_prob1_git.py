@@ -5,9 +5,10 @@ franchise = {
    'marvel' : ['Hulk', 'Thor', 'Black Widow']
 }
 z = [ {'x': 10, 'y': 20} ]
-x_1=print([j for i in x for j in i])
-x_1[3]=15
-print(x_1)
+#x_1=print([j for i in x for j in i])
+#x_1[3]=15
+#print(x_1)
+
 
 
 
